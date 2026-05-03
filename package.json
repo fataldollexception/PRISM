@@ -1,0 +1,26 @@
+{
+  "name": "prism",
+  "version": "1.0.0",
+  "description": "A multi model AI client with VTube Avatar support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fataldollexception/PRISM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fataldollexception/PRISM/issues"
+  },
+  "homepage": "https://github.com/fataldollexception/PRISM#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
